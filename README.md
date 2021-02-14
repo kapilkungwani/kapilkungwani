@@ -31,10 +31,10 @@
 ### Contact with me
 
 <p align="center">
-  <p align="center">
     <a href="mailto:kapilkungwani1820@gmail.com" alt="Mail"><img height="32px" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/kapil-kungwani-kk1820/" alt="Linkedin"><img height="32px" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>&nbsp;&nbsp;
     <a href="https://github.com/kapilkungwani" alt="GitHub"><img height="32px" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>&nbsp;&nbsp;
     <a href="https://github.com/kapilkungwani" alt="Instagram"><img height="32px" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-  </p>
+    <br /> <br />
+    ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kapilkungwani.kapilkungwani)
 </p>
