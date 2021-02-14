@@ -1,4 +1,4 @@
-### Hi there, I am Kapil Kungwani 👋
+### Hi there, I am Kapil Kungwani <img src="https://raw.githubusercontent.com/kapilkungwani/kapilkungwani/master/assets/Hi.gif?raw=true" width="30px">
 
 ## About Me
 
