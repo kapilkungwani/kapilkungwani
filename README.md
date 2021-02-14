@@ -36,5 +36,5 @@
     <a href="https://github.com/kapilkungwani" alt="GitHub"><img height="32px" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>&nbsp;&nbsp;
     <a href="https://github.com/kapilkungwani" alt="Instagram"><img height="32px" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
     <br /> <br />
-    ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kapilkungwani.kapilkungwani)
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=kapilkungwani" alt="visitor badge"/>
 </p>
