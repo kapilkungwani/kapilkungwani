@@ -27,6 +27,7 @@
 
 ## &#x1f4c8; GitHub Stats
 
+<img src="https://visitor-badge.laobi.icu/badge?page_id=kapilkungwani" alt="visitor badge"/>
 <img  src="https://github-readme-stats.vercel.app/api?username=kapilkungwani&show_icons=true&hide_border=true&theme=midnight-purple" width="48%">
 
 
@@ -38,5 +39,5 @@
     <a href="https://github.com/kapilkungwani"><img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
     <a href="https://github.com/kapilkungwani">	<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
     <br /> <br />
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=kapilkungwani" alt="visitor badge"/>
+
 </p>
