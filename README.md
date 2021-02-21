@@ -36,6 +36,7 @@
     <a href="mailto:kapilkungwani1820@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/kapil-kungwani-kk1820/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://github.com/kapilkungwani"><img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+    <a href="https://github.com/kapilkungwani">	<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
     <br /> <br />
     <img src="https://visitor-badge.laobi.icu/badge?page_id=kapilkungwani" alt="visitor badge"/>
 </p>
