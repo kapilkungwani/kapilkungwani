@@ -1,40 +1,41 @@
-### Hi there, I am Kapil Kungwani <img src="https://raw.githubusercontent.com/kapilkungwani/kapilkungwani/master/assets/Hi.gif?raw=true" width="30px">
+## Hi there, I am <a href="https://github.com/kapilkungwani">Kapil Kungwani </a> <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="50px">
+<img align='right' src="https://media.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif" width="240px">
 
-## About Me
-
+- 🏫 I am a second year Undergrad persuing B.Tech in Information Technology at Birla Institute of Technology, Mesra.
 - 🌱 I’m currently learning Data Structures and Algorithms and Web Development.
 - 🔭 I’m currently working on my Problem Solving Skills.
-- 🥅 2021 Goals: Contribute to Open Source projects.
+- 🎯 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Hobbies: I love to sing and play guitar.
 
+<br/>
 
-### Languages and Tools:
+### Tech Stack I am Familiar With:
 
-<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="CPP" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="C" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
-<img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
+<div class="row">
+<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<img alt="WordPress" src="https://img.shields.io/badge/WordPress%20-%23117AC9.svg?&style=for-the-badge&logo=WordPress&logoColor=white"/>
+</div>
 <br /> <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kapilkungwani&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
- <br /> <br />
+## &#x1f4c8; GitHub Stats
 
-![Kapil's github stats](https://github-readme-stats.vercel.app/api?username=kapilkungwani&show_icons=true&theme=midnight-purple)
+<img  src="https://github-readme-stats.vercel.app/api?username=kapilkungwani&show_icons=true&hide_border=true&theme=midnight-purple" width="48%">
 
 
-### Contact with me
+### Connect with me
 
 <p align="center">
-    <a href="mailto:kapilkungwani1820@gmail.com" alt="Mail"><img height="32px" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/kapil-kungwani-kk1820/" alt="Linkedin"><img height="32px" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>&nbsp;&nbsp;
-    <a href="https://github.com/kapilkungwani" alt="GitHub"><img height="32px" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>&nbsp;&nbsp;
-    <a href="https://github.com/kapilkungwani" alt="Instagram"><img height="32px" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+    <a href="mailto:kapilkungwani1820@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/kapil-kungwani-kk1820/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://github.com/kapilkungwani"><img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
     <br /> <br />
     <img src="https://visitor-badge.laobi.icu/badge?page_id=kapilkungwani" alt="visitor badge"/>
 </p>
