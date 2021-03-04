@@ -1,5 +1,5 @@
 ## Hi there, I am <a href="https://github.com/kapilkungwani">Kapil Kungwani </a> <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="50px">
-<img align='right' src="https://media.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif" width="240px">
+<img align='right' src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300px">
 
 - 🏫 I am a second year Undergrad pursuing B.Tech in Information Technology at Birla Institute of Technology, Mesra.
 - 🌱 I’m currently learning Data Structures and Algorithms and Web Development.
