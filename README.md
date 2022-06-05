@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning Data Structures and Algorithms and Web Development.
 - 🔭 I’m currently working on my Problem Solving Skills.
 - 🎯 2022 Goals: Contribute more to Open Source projects.
+- 💬 Ask me about NodeJS, Competitive Programming
 - ⚡ Hobbies: I love to sing and play guitar.
 - 😄 Pronouns: He/Him
 
