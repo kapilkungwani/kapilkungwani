@@ -1,11 +1,12 @@
-## Hi there, I am <a href="https://github.com/kapilkungwani">Kapil Kungwani </a> <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="50px">
-<img align='right' src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300px">
+## Hi there, I am <a href="https://github.com/kapilkungwani">Kapil Kungwani </a> <img width="7%" src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif">
+<img align='right' src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="37%">
 
-- 🏫 I am a second year Undergrad pursuing B.Tech in Information Technology at Birla Institute of Technology, Mesra.
+- 🏫 I am a pre-final year Undergrad pursuing B.Tech in Information Technology at Birla Institute of Technology, Mesra.
 - 🌱 I’m currently learning Data Structures and Algorithms and Web Development.
 - 🔭 I’m currently working on my Problem Solving Skills.
-- 🎯 2021 Goals: Contribute more to Open Source projects.
+- 🎯 2022 Goals: Contribute more to Open Source projects.
 - ⚡ Hobbies: I love to sing and play guitar.
+- 😄 Pronouns: He/Him
 
 <br/>
 
